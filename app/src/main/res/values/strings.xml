@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Time2Sleep</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_time_activty">TimeActivty</string>
+    <string name="title_activity_profiles">ProfilesActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+</resources>
